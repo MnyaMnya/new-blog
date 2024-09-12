@@ -16,7 +16,7 @@ params:
   math: true
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "My Blog"
-  description: "ExampleSite description"
+  description: "Personal blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Baban
   # author: ["Me", "You"] # multiple authors
