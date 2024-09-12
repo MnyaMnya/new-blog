@@ -21,7 +21,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "My Blog"
   description: "Personal blog"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, PaperMod, Stepmania, Mania, "Anime pack", "Stepmania pack"]
   author: Baban
   # author: ["Me", "You"] # multiple authors
   images: ["https://avatars.githubusercontent.com/u/81231166?s=400&u=359286ce98e1f176d8e0170e6f49e2d0dbd0bc9e&v=4"]
