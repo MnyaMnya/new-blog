@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Probabilitas on My Blog</title>
+    <link>http://localhost:1313/probabilitas/</link>
+    <description>Recent content in Probabilitas on My Blog</description>
+    <image>
+      <title>My Blog</title>
+      <url>https://avatars.githubusercontent.com/u/81231166?s=400&amp;u=359286ce98e1f176d8e0170e6f49e2d0dbd0bc9e&amp;v=4</url>
+      <link>https://avatars.githubusercontent.com/u/81231166?s=400&amp;u=359286ce98e1f176d8e0170e6f49e2d0dbd0bc9e&amp;v=4</link>
+    </image>
+    <generator>Hugo -- 0.134.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Sep 2024 16:21:57 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/probabilitas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kombinasi</title>
+      <link>http://localhost:1313/probabilitas/kombinasi/</link>
+      <pubDate>Thu, 12 Sep 2024 16:21:57 +0700</pubDate>
+      <guid>http://localhost:1313/probabilitas/kombinasi/</guid>
+      <description>&lt;p&gt;Urutan tidak memiliki arti&lt;/p&gt;
+&lt;h3 id=&#34;rumus&#34;&gt;Rumus&lt;/h3&gt;
+$$\frac{n!}{r!(n-r)!}$$&lt;p&gt;w&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Permutaasi</title>
+      <link>http://localhost:1313/probabilitas/permutasi/</link>
+      <pubDate>Thu, 12 Sep 2024 16:21:57 +0700</pubDate>
+      <guid>http://localhost:1313/probabilitas/permutasi/</guid>
+      <description>&lt;p&gt;Susunan memiliki arti
+&lt;/p&gt;
+$$\frac{n!}{(n-r)!}$$</description>
+    </item>
+  </channel>
+</rss>
