@@ -1,7 +1,7 @@
 +++
 title = 'Math'
 date = 2024-09-12T17:47:46+07:00
-draft = truu
+draft = true
 +++
 This is an inline \(a^*=x-b^*\) equation.
 
