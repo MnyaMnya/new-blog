@@ -3,6 +3,10 @@ title: "My Blog"
 paginate: 5
 theme: PaperMod
 
+services:
+  disqus:
+    shortname: bbn-blog
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -40,7 +44,25 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  profileMode:
+    enabled: true
+    title: "<Title>" # optional default will be site title
+    subtitle: "This is subtitle"
+    imageUrl: "<image link>" # optional
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Archive
+        url: "/archive"
+      - name: Github
+        url: "https://github.com/"
 
+  socialIcons: # optional
+    - name: "<platform>"
+      url: "<link>"
+    - name: "<platform 2>"
+      url: "<link2>"
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
