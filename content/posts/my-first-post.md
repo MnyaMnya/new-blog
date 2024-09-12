@@ -1,9 +1,10 @@
 +++
-title = 'My First Post'
+title = 'Who am i'
 date = 2024-09-12T16:21:57+07:00
 draft = true
 +++
-This is **bold** text, and this is *emphasized* text.
+Someone who is excited to learn about computer
+Visit my Github at [here](https://github.com/MnyaMnya)
 
-Visit the [Hugo](https://gohugo.io) website!
+
 
