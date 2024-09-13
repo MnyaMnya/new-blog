@@ -11,5 +11,5 @@ This pack contain the lowest and highest difficulty only
 
 **CREATED FOR PROJECT OUTFOX, CANNOT RUN IN STEPMANIA**
 
-Link: ["Baban  pack 1-10"](release/baban-pack-1-10)
+Link: ["Baban  pack 1-10"]({{%ref "baban-pack-1-10" %}})
 

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://examplesite.com/</link>
     <description>Recent content on My Blog</description>
     <image>
       <title>My Blog</title>
@@ -12,12 +12,12 @@
     <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 13 Sep 2024 09:03:07 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baban Pack 1</title>
-      <link>http://localhost:1313/release/baban-pack-1-10/</link>
+      <link>https://examplesite.com/release/baban-pack-1-10/</link>
       <pubDate>Fri, 13 Sep 2024 09:03:07 +0700</pubDate>
-      <guid>http://localhost:1313/release/baban-pack-1-10/</guid>
+      <guid>https://examplesite.com/release/baban-pack-1-10/</guid>
       <description>&lt;p&gt;This pack is my first pack created for &lt;strong&gt;&lt;a href=&#34;https://projectoutfox.com/&#34;&gt;&amp;ldquo;Project Outfox&amp;rdquo;&lt;/a&gt;&lt;/strong&gt; it cannot run on regular stepmania because of high res video and high quality audio &lt;br&gt;
 &lt;br&gt;
 Song list&lt;/p&gt;
@@ -140,19 +140,19 @@ Password: 2340&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Stepmania Pack</title>
-      <link>http://localhost:1313/posts/new-stepmania-pack/</link>
+      <link>https://examplesite.com/posts/new-stepmania-pack/</link>
       <pubDate>Thu, 12 Sep 2024 19:23:10 +0700</pubDate>
-      <guid>http://localhost:1313/posts/new-stepmania-pack/</guid>
+      <guid>https://examplesite.com/posts/new-stepmania-pack/</guid>
       <description>&lt;p&gt;I am working on new &lt;strong&gt;Stepmania&lt;/strong&gt; Keyboard-Only pack containing 10+ Songs most of them coming from a game called &lt;a href=&#34;https://dmg.priconne-redive.jp/&#34;&gt;Princess Connect Re Dive&lt;/a&gt;
 This pack contain the lowest and highest difficulty only&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;CREATED FOR PROJECT OUTFOX, CANNOT RUN IN STEPMANIA&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Link: &lt;a href=&#34;release/baban-pack-1-10&#34;&gt;&amp;ldquo;Baban  pack 1-10&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Link: &lt;a href=&#34;https://examplesite.com/release/baban-pack-1-10/&#34;&gt;&amp;ldquo;Baban  pack 1-10&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Who am i</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://examplesite.com/posts/my-first-post/</link>
       <pubDate>Thu, 12 Sep 2024 16:21:57 +0700</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://examplesite.com/posts/my-first-post/</guid>
       <description>&lt;p&gt;Someone that usually called by alias &lt;em&gt;&amp;lsquo;baban&amp;rsquo;&lt;/em&gt;, like playing with his computer since child and now enrolling in college&lt;/p&gt;</description>
     </item>
   </channel>
