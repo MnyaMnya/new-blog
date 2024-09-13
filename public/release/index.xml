@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My Blog</title>
-    <link>https://examplesite.com/</link>
-    <description>Recent content on My Blog</description>
+    <title>Releases on My Blog</title>
+    <link>https://examplesite.com/release/</link>
+    <description>Recent content in Releases on My Blog</description>
     <image>
       <title>My Blog</title>
       <url>https://avatars.githubusercontent.com/u/81231166?s=400&amp;u=359286ce98e1f176d8e0170e6f49e2d0dbd0bc9e&amp;v=4</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 13 Sep 2024 09:03:07 +0700</lastBuildDate>
-    <atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://examplesite.com/release/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baban Pack 1</title>
       <link>https://examplesite.com/release/baban-pack-1-10/</link>
@@ -137,23 +137,6 @@ Song list&lt;/p&gt;
 &lt;/table&gt;
 &lt;p&gt;Link: &lt;a href=&#34;https://drive.google.com/file/d/1BfGTq8OhJiSoa7VvdS0WYvh7fCAwE-Un/view?usp=sharing&#34;&gt;Drive&lt;/a&gt; &lt;br&gt;
 Password: 2340&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>New Stepmania Pack</title>
-      <link>https://examplesite.com/posts/new-stepmania-pack/</link>
-      <pubDate>Thu, 12 Sep 2024 19:23:10 +0700</pubDate>
-      <guid>https://examplesite.com/posts/new-stepmania-pack/</guid>
-      <description>&lt;p&gt;I am working on new &lt;strong&gt;Stepmania&lt;/strong&gt; Keyboard-Only pack containing 10+ Songs most of them coming from a game called &lt;a href=&#34;https://dmg.priconne-redive.jp/&#34;&gt;Princess Connect Re Dive&lt;/a&gt;
-This pack contain the lowest and highest difficulty only&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;CREATED FOR PROJECT OUTFOX, CANNOT RUN IN STEPMANIA&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Link: &lt;a href=&#34;https://examplesite.com/release/baban-pack-1-10&#34;&gt;&amp;ldquo;Baban  pack 1-10&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Who am i</title>
-      <link>https://examplesite.com/posts/my-first-post/</link>
-      <pubDate>Thu, 12 Sep 2024 16:21:57 +0700</pubDate>
-      <guid>https://examplesite.com/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Someone that usually called by alias &lt;em&gt;&amp;lsquo;baban&amp;rsquo;&lt;/em&gt;, like playing with his computer since child and now enrolling in college&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

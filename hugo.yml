@@ -46,7 +46,7 @@ params:
   tocopen: false
   profileMode:
     enabled: true
-    title: "Hi Welcome to my perosonal blog" # optional default will be site title
+    title: "Hi Welcome to my personal blog" # optional default will be site title
     subtitle: "Click link below for more information"
     imageUrl: "https://avatars.githubusercontent.com/u/81231166?s=400&u=359286ce98e1f176d8e0170e6f49e2d0dbd0bc9e&v=4" # optional
     imageTitle: "My Blog" # optional
@@ -57,8 +57,8 @@ params:
         url: "posts"
       - name: Search
         url: "search"
-      - name: Github
-        url: "https://github.com/MnyaMnya/new-blog"
+      - name: "Stepmania pack"
+        url: "release"
 
   socialIcons: # optional
     - name: "Github"
