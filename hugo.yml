@@ -3,9 +3,6 @@ title: "My Blog"
 paginate: 5
 theme: PaperMod
 
-services:
-  disqus:
-    shortname: bbn-blog
 
 enableRobotsTXT: true
 buildDrafts: false
