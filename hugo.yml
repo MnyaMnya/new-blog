@@ -54,9 +54,9 @@ params:
     imageHeight: 120 # custom size
     buttons:
       - name: Posts
-        url: "/posts/"
+        url: "/posts/index.html"
       - name: Search
-        url: "/search/"
+        url: "/search/index.html"
       - name: Github
         url: "https://github.com/MnyaMnya/new-blog"
 
