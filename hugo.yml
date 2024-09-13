@@ -46,31 +46,31 @@ params:
   tocopen: false
   profileMode:
     enabled: true
-    title: "<Title>" # optional default will be site title
-    subtitle: "This is subtitle"
-    imageUrl: "<image link>" # optional
-    imageTitle: "<title of image as alt>" # optional
+    title: "Hi Welcome to my perosonal blog" # optional default will be site title
+    subtitle: "Click link below for more information"
+    imageUrl: "https://avatars.githubusercontent.com/u/81231166?s=400&u=359286ce98e1f176d8e0170e6f49e2d0dbd0bc9e&v=4" # optional
+    imageTitle: "My Blog" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
-      - name: Archive
-        url: "/archive"
+      - name: Posts
+        url: "/posts"
+      - name: Search
+        url: "/search"
       - name: Github
-        url: "https://github.com/"
+        url: "https://github.com/MnyaMnya/new-blog"
 
   socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
+    - name: "Github"
+      url: "https://github.com/MnyaMnya"
+    - name: "Discord"
+      url: "https://discord.gg/xzAgcpS3"
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon16x16.ico"
+    favicon32x32: "/favicon32x32.ico"
 
   label:
     text: "Home"
@@ -78,28 +78,12 @@ params:
     iconHeight: 35
 
   # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
 
   # home-info mode
   homeInfoParams:
     Title: "Hi there"
     Content: Welcome to my personal blog
 
-  socialIcons:
-    - name: github
-      url: "https://github.com/MnyaMnya"
 
   analytics:
     google:
@@ -167,3 +151,8 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
